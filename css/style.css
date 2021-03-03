@@ -107,6 +107,11 @@
 	*/
 }
 
+.container-icons {
+    max-width: 85%;
+    margin: 0 auto;
+}
+
 .container-center {
     max-width: 55%;
     margin: 0 auto;
